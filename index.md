@@ -1,7 +1,7 @@
-# Mousa Zeid Baker
+# Mousa Baker
 MSc in Computer Science and Engineering
 
-![Profile](https://raw.githubusercontent.com/MousaZeidBaker/resume/master/images/profile_id_small.jpg)
+![Profile](https://raw.githubusercontent.com/mousabaker/resume/master/images/profile_id_small.jpg)
 
 ## About me
 
@@ -16,16 +16,16 @@ I currently serve as a **Lead Cloud Architect** at Norlys within the Cloud Platf
 ## Personal Projects
 
 **AWS Lambda Typing**  
-[aws-lambda-typing](https://github.com/MousaZeidBaker/aws-lambda-typing) – Provides type hints for AWS Lambda event, context, and response objects in Python.
+[aws-lambda-typing](https://github.com/mousabaker/aws-lambda-typing) – Provides type hints for AWS Lambda event, context, and response objects in Python.
 
 **poetry-plugin-up**  
-[poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) – Updates dependencies and bumps versions in `pyproject.toml`.
+[poetry-plugin-up](https://github.com/mousabaker/poetry-plugin-up) – Updates dependencies and bumps versions in `pyproject.toml`.
 
 **Local Kubernetes**  
-[lk8s](https://github.com/MousaZeidBaker/lk8s) – One-stop setup for local Kubernetes environments.
+[lk8s](https://github.com/mousabaker/lk8s) – One-stop setup for local Kubernetes environments.
 
 **SecretsManager**  
-[sm](https://github.com/MousaZeidBaker/sm) – Open-source self-hosted secrets manager built with Next.js, hosted on Vercel, storing secrets in AWS Parameter Store.
+[sm](https://github.com/mousabaker/sm) – Open-source self-hosted secrets manager built with Next.js, hosted on Vercel, storing secrets in AWS Parameter Store.
 
 **Blog**  
 [https://mousabaker.vercel.app/](https://mousabaker.vercel.app/) – Portfolio and blog sharing insights on cloud, architecture, and development topics.
@@ -122,7 +122,7 @@ Exchange student in Barcelona, Spain through Erasmus programme
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/mousazeidbaker/)  
+- [LinkedIn](https://www.linkedin.com/in/mousabaker/)  
 
 ## References
 

@@ -1,7 +1,7 @@
 # Mousa Zeid Baker
 MSc in Computer Science and Engineering
 
-![](https://raw.githubusercontent.com/MousaZeidBaker/resume/master/images/profile_id.jpg)
+![](https://raw.githubusercontent.com/MousaZeidBaker/resume/master/images/profile_id_small.jpg)
 
 ## About me
 

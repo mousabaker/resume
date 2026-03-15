@@ -5,14 +5,16 @@ MSc in Computer Science and Engineering
 
 ## About me
 
-I am a passionate technical leader with a strong background in cloud computing,
-containerization, software architecture, and DevOps. I have developed a diverse
-set of technical skills and a deep understanding of various technologies and
-platforms. I have a proven track record of successfully leading highly skilled
-engineering teams to deliver secure and scalable solutions that meet the needs
-of the business. In addition to my technical expertise, I am also an effective
-communicator and problem solver, able to translate technical concepts to a
-non-technical audience and find creative solutions to challenging problems.
+I currently serve as a Lead Cloud Architect at Norlys, working within the Cloud
+Platform team to design and evolve enterprise-scale cloud platforms across Azure
+and AWS. My focus is on enabling development teams to deploy workloads on
+secure, scalable and compliant cloud foundations through standardized landing
+zones and platform capabilities.
+
+I act as a trusted advisor across the organization, providing technical
+guidance and thought leadership to accelerate cloud adoption. I also support
+application migration and modernization initiatives, ensuring seamless
+transitions to modern cloud architectures.
 
 I am excited about the ever-evolving potential of technology and am always eager
 to explore new opportunities in this emerging landscape that push the boundaries

@@ -16,13 +16,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Install Pandoc and LaTeX engine (XeLaTeX)
-      - name: Install Pandoc and LaTeX
-        run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex
+      # Step 2: Install md-to-pdf
+      - name: Install md-to-pdf
+      - run: npm install -g md-to-pdf
 
       # Step 3: Generate PDF from index.md
       - name: Generate PDF
-        run: pandoc index.md -o resume-mousa.pdf --pdf-engine=xelatex
+      - run: md-to-pdf index.md --output resume-mousa.pdf
 
       # Step 4: Commit PDF back to repository
       - name: Commit PDF

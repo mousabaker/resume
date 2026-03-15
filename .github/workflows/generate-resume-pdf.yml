@@ -18,11 +18,11 @@ jobs:
 
       # Step 2: Install md-to-pdf
       - name: Install md-to-pdf
-      - run: npm install -g md-to-pdf
+        run: npm install -g md-to-pdf
 
       # Step 3: Generate PDF from index.md
       - name: Generate PDF
-      - run: md-to-pdf index.md --output resume-mousa.pdf
+        run: md-to-pdf index.md --output resume-mousa.pdf
 
       # Step 4: Commit PDF back to repository
       - name: Commit PDF

@@ -1,230 +1,132 @@
 # Mousa Zeid Baker
 MSc in Computer Science and Engineering
 
-![](https://raw.githubusercontent.com/MousaZeidBaker/resume/master/images/profile_id_small.jpg)
+![Profile](https://raw.githubusercontent.com/MousaZeidBaker/resume/master/images/profile_id_small.jpg)
 
 ## About me
 
-I currently serve as a Lead Cloud Architect at Norlys, working within the Cloud
-Platform team to design and evolve enterprise-scale cloud platforms across Azure
-and AWS. My focus is on enabling development teams to deploy workloads on
-secure, scalable and compliant cloud foundations through standardized landing
-zones and platform capabilities.
+Lead Cloud Architect with extensive experience designing and leading enterprise-scale cloud platforms on Azure and AWS. Skilled in cloud-native architectures, infrastructure as code, automation, and DevOps practices. Proven track record in providing technical leadership, driving cloud adoption, and delivering secure, scalable, and cost-optimized solutions.
 
-I act as a trusted advisor across the organization, providing technical
-guidance and thought leadership to accelerate cloud adoption. I also support
-application migration and modernization initiatives, ensuring seamless
-transitions to modern cloud architectures.
-
-I am excited about the ever-evolving potential of technology and am always eager
-to explore new opportunities in this emerging landscape that push the boundaries
-of what is possible.
+I am passionate about translating complex technical challenges into innovative solutions and enjoy guiding teams to adopt modern cloud technologies that accelerate business impact.
 
 ## Currently
 
-I currently serve as the **Head of Infrastructure** at Moodagent, where I lead a
-skilled team of DevOps engineers and contribute to the strategic vision of our
-organization. My focus involves planing & executing cloud strategies, reviewing
-architecture design, building secure & scalable infrastructure and automating
-various processes to enhance efficiency. My responsibilities extend to
-identifying & mitigating critical incidents, working closely with
-cross-functional teams, ensuring minimal disruption to our services, and
-adopting a proactive approach to continuous improvement. Additionally, I'm
-involved in defining and enforcing appropriate security & data protection
-policies as well as ensuring full compliance with recommended best practices. 
+I currently serve as a **Lead Cloud Architect** at Norlys within the Cloud Platform team, designing and evolving enterprise-scale cloud platforms across Azure and AWS. I act as a trusted advisor, providing technical guidance and thought leadership to accelerate cloud adoption and support application migration and modernization initiatives, ensuring seamless transitions to modern cloud architectures.
 
 ## Personal Projects
 
-__AWS Lambda Typing__
+**AWS Lambda Typing**  
+[aws-lambda-typing](https://github.com/MousaZeidBaker/aws-lambda-typing) – Provides type hints for AWS Lambda event, context, and response objects in Python.
 
-[aws-lambda-typing](https://github.com/MousaZeidBaker/aws-lambda-typing) is a
-package that provides type hints for AWS Lambda event, context and response
-objects in Python.
+**poetry-plugin-up**  
+[poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) – Updates dependencies and bumps versions in `pyproject.toml`.
 
-__poetry-plugin-up__
+**Local Kubernetes**  
+[lk8s](https://github.com/MousaZeidBaker/lk8s) – One-stop setup for local Kubernetes environments.
 
-[poetry-plugin-up](https://github.com/MousaZeidBaker/poetry-plugin-up) updates
-dependencies and bumps their versions in `pyproject.toml` file.
+**SecretsManager**  
+[sm](https://github.com/MousaZeidBaker/sm) – Open-source self-hosted secrets manager built with Next.js, hosted on Vercel, storing secrets in AWS Parameter Store.
 
-__Local Kubernetes__
-
-[lk8s](https://github.com/MousaZeidBaker/lk8s) - all you need for a local
-Kubernetes setup in one place.
-
-__SecretsManager__
-
-[sm](https://github.com/MousaZeidBaker/sm) is an open-source self-hosted secrets
-manager with zero cost. Built with [Next.js](https://nextjs.org/), web app
-hosted in
-[Vercel](https://nextjs.org/docs/deployment#managed-nextjs-with-vercel) while
-secrets are securely stored in AWS Parameter Store.
-
-__Blog__
-
-[https://mousabaker.vercel.app/](https://mousabaker.vercel.app/) is my portfolio
-website that I'm currently building where I make blog posts about various of
-topics.
+**Blog**  
+[https://mousabaker.vercel.app/](https://mousabaker.vercel.app/) – Portfolio and blog sharing insights on cloud, architecture, and development topics.
 
 ## Experience
 
-`Oct 2024-` __Norlys__
-Lead Cloud Architect
+`Oct 2024-` __Norlys__  
+**Lead Cloud Architect**
 
-Lead Cloud Architect within the Cloud Platform team responsible for designing,
-building and evolving Norlys’ enterprise cloud platform across Azure and AWS.
-My role focuses on enabling development teams to deploy workloads on secure,
-scalable and compliant cloud foundations through enterprise-scale landing zones
-and standardized platform capabilities.
+- Design and evolve enterprise-scale cloud platforms across Azure and AWS, enabling secure, scalable, and compliant workloads.  
+- Act as a trusted advisor, providing technical guidance and thought leadership to accelerate cloud adoption.  
+- Support application migration and modernization initiatives, ensuring seamless transitions to cloud-native architectures.  
+- Define governance models, security guardrails, and IaC standards to ensure consistent, compliant deployments.  
+- Contribute to transformation initiatives related to Norlys’ acquisition of Telia, supporting system and service transitions.
 
-I work closely with engineering teams and stakeholders across the organization
-to provide architectural guidance, support cloud adoption and ensure best
-practices around security, governance, and operational excellence. My
-responsibilities include designing cloud architectures, evaluating new cloud
-technologies, supporting migration and modernization initiatives, and helping
-teams onboard to the enterprise platform.
+`Feb 2022-Sep 2024` __Moodagent__  
+**Head of Cloud Infrastructure**
 
-I am also involved in defining governance models, security guardrails and
-Infrastructure as Code standards to ensure consistent and compliant cloud
-deployments. In addition, I contribute to transformation initiatives related to
-Norlys’ acquisition of Telia, supporting the transition of systems and services
-towards modern cloud-based platforms.
+- Led a team of DevOps engineers to design and implement secure, scalable, and automated cloud infrastructure.  
+- Defined cloud strategies, architecture standards, and operational best practices.  
+- Oversaw incident management, process automation, and cross-functional collaboration to ensure service reliability and continuity.  
+- Implemented security and data protection policies, ensuring compliance with industry standards.
 
-`Feb 2022-Sep 2024` __Moodagent__
-Head of Cloud Infrastructure
+`Dec 2020-Jan 2022` __Moodagent__  
+**Solutions Architect**
 
-I currently serve as the **Head of Infrastructure** at Moodagent, where I lead a
-skilled team of DevOps engineers and contribute to the strategic vision of our
-organization. My focus involves planing & executing cloud strategies, reviewing
-architecture design, building secure & scalable infrastructure and automating
-various processes to enhance efficiency. My responsibilities extend to
-identifying & mitigating critical incidents, working closely with
-cross-functional teams, ensuring minimal disruption to our services, and
-adopting a proactive approach to continuous improvement. Additionally, I'm
-involved in defining and enforcing appropriate security & data protection
-policies as well as ensuring full compliance with recommended best practices. 
+- Designed and implemented a real-time recommendation service using machine learning.  
+- Migrated legacy systems to microservices and containerized architectures deployed on Kubernetes.  
+- Advised teams on architecture, technical solutions, and technology stacks.
 
-`Dec 2020-Jan 2022` __Moodagent__
-Solutions Architect
+`Nov 2019-Nov 2020` __Moodagent__  
+**Cloud Engineer**
 
-As a Solutions Architect for a music streaming service, I have worked on
-designing and implementing a new real-time recommendation service, in addition
-to the existing non-real-time service, using machine learning to provide
-uniquely personalized playlists for our users. I have also migrated legacy
-solutions to microservice-oriented solutions, collaborated with other teams to
-advise, support, and review architectural design, technical solutions, and
-technology stack. Additionally, I have introduced Trunk-based development,
-dockerized services, deployed containers into Kubernetes clusters.
+- Built robust, scalable infrastructure for recommendation systems using AWS CDK (Python).  
+- Designed automated CI/CD pipelines and implemented AWS Step Functions for orchestration.  
+- Expanded services to multiple regions while maintaining operational efficiency.
 
-`Nov 2019-Nov 2020` __Moodagent__
-Cloud Engineer
+`Nov 2018-Oct 2019` __Axis Communications__  
+**Software Engineer & DevOps Engineer**
 
-Cloud Engineer for a music streaming service where users are provided
-with uniquely personalized playlists with help of machine learning. My main
-responsibility was to build a new robust & scalable infrastructure for our
-recommendation system. We decided to apply Infrastructure as Code (IaC) using
-AWS Cloud Development Kit (CDK) with Python. The architecture included AWS Step
-Functions, EMR, SNS, SQS, Lambdas and DynamoDB to mention some. Implemented
-state-of-the-art CI/CD pipelines to fully automate deployments. Worked with
-expanding our services to new regions. Implemented AWS Step Functions to
-orchestrate flows and automate jobs.
+- Developed multi-site serverless solutions for audio services using AWS (AppSync, Lambda, DynamoDB, SNS/SQS).  
+- Modeled and deployed cloud infrastructure using AWS CDK (TypeScript).  
+- Implemented microservice-oriented, event-driven architectures to enable scalable audio platforms.
 
-`Nov 2018-Oct 2019` __Axis Communications__
-Software Engineer & DevOps Engineer
+`Jul 2016-Oct 2018` __Axis Communications__  
+**Software Engineer**
 
-Part of a new cloud-native project within the field of audio. We started the
-project from scratch and the goal was to develop a multi-site serverless
-solution for voice messaging, music streaming, warning system etc. The platform
-setup included network speakers and other audio devices. The architecture of
-choice was microservice-oriented with Pub/Sub pattern in order to ensure an
-event-driven application. Various AWS resources were used in our solution such
-as AppSync for GraphQL API, SNS topics & SQS queues for Pub/Sub pattern, Lambdas
-for serverless implementation and DynamoDB as database. This design enabled our
-application to quickly scale in response to demand. We used The AWS Cloud
-Development Kit (AWS CDK) framework together with TypeScript to model and build
-our cloud infrastructure.
+- Developed cloud-based surveillance solutions and RESTful APIs using PHP (Laravel) and Node.js.  
+- Implemented Terraform-based cloud infrastructure and MySQL-backed microservices.  
+- Contributed to backend and frontend development across agile teams.
 
-`Jul 2016-Oct 2018` __Axis Communications__
-Software Engineer
+`Jan 2016-Jun 2016` __Sony Mobile Communications__  
+**Master's Degree Project**
 
-Developer within a cloud-based surveillance solution for security and alarm
-monitoring companies. The platform setup included network video cameras and a
-variety of analytics and security devices. I had the time to be part of two
-agile teams, one backend and one frontend, with a main focus on the backend.
-With time I got an important role as an API specialist where I had the
-opportunity to both design and implement JSON RESTful APIs. The old code base
-was in PHP while new microservices were in Node.js. For our REST API:s we used
-Laravel, a PHP framework that follows the model–view–controller architectural
-pattern. A MySQL database was used and the cloud was modeled and set up with
-Terraform.
+- Implemented conditional DCGANs in TensorFlow for generating synthetic data to augment classifier training.  
+- Leveraged CNN classifiers using NVIDIA DIGITS.
 
-`Jan 2016-Jun 2016` __Sony Mobile Communications__
-Master's Degree Project
+`Jun 2015-Sep 2015` __Ericsson Stockholm__  
+**Internship**
 
-The main goal of the thesis was to investigate how to use Generative Adversarial
-Networks (GANs) to generate synthetic data in order to increase the number of
-training examples to train a classifier. GANs are neural networks that analyzes
-data from a certain distribution in order to generate similar data. A
-conditional DCGAN was implemented using TensorFlow, the convolutional neural
-network (CNN) classifier was pre- implemented with Caffe’s .prototxt format in
-NVIDIA DIGITS.
-
-`Jun 2015-Sep 2015` __Ericsson Stockholm__
-Internship
-
-Worked with deep learning within the department of Cloud platform HDS. Various
-of deep learning frameworks such as Caffe, TensorFlow, Keras, scikit-learn,
-Torch etc were used to model different types of artificial neural networks. From
-simple fully connected neural networks (NN) to recurrent neural networks (RNN)
-for predicting utilization levels and failures in Data Center installations.
+- Developed deep learning models (NN, RNN) for predicting utilization and failures in Data Center environments.  
+- Worked with frameworks including TensorFlow, Caffe, Keras, PyTorch, and scikit-learn.
 
 ## Education
 
-`Sep 2011-Jun 2016` __Blekinge Institute of Technology__
+`Sep 2011-Jun 2016` __Blekinge Institute of Technology__  
 MSc in Computer Science and Engineering
 
-`Feb 2014-July 2014` __Universitat Politècnica De Catalunya__
-Exchange student in Barcelona, Spain through Erasmus programme for higher
-education students
+`Feb 2014-Jul 2014` __Universitat Politècnica De Catalunya__  
+Exchange student in Barcelona, Spain through Erasmus programme
 
-## Technical skills
+## Technical Skills
 
-* AWS
-* AWS Cloud Development Kit (CDK)
-* Terraform
-* Docker
-* Kubernetes
-* Python
-* TypeScript
-* NodeJs
-* GraphQL
-* RESTful API
-* SQL
-* NoSQL
+**Cloud Platforms:** AWS, Azure  
+**IaC & Automation:** Terraform, AWS CDK, Bicep, Docker, Kubernetes  
+**Languages:** Python, TypeScript, Node.js  
+**Databases & APIs:** SQL, NoSQL, GraphQL, RESTful API  
+**Architecture & Patterns:** Microservices, Serverless, Pub/Sub, Cloud Governance, FinOps  
 
-## Areas of expertise
+## Areas of Expertise
 
-* Cloud Computing
-* Infrastructure as code (IaC)
-* Automation
-* Serverless Computing
-* Software Development
-* APIs
-* Microservices
-* Pub/Sub pattern architectures
+- Cloud Computing & Architecture  
+- Infrastructure as Code (IaC)  
+- Automation & DevOps  
+- Serverless Computing  
+- Microservices & Event-driven Architectures  
+- APIs & Cloud Integration  
 
-## Personal skills
-* Motivated
-* Driven
-* Organized
-* Team player
-* Fast learner
+## Personal Skills
 
-## Links 
-* [LinkedIn](https://www.linkedin.com/in/mousazeidbaker/)
+- Motivated & Driven  
+- Organized & Team Player  
+- Fast Learner & Problem Solver  
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/mousazeidbaker/)  
 
 ## References
 
-Available on request.
+Available on request
 
 ## Contact
 Phone: +46 736 48 64 64  

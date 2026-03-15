@@ -6,30 +6,29 @@ on:
 
   push:
     branches:
-      - master
+      - main  # Trigger on pushes to main branch
 
 jobs:
   build-pdf:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
+      # Step 2: Install Pandoc and LaTeX engine (XeLaTeX)
+      - name: Install Pandoc and LaTeX
+        run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex
 
-      - name: Install markdown-pdf
-        run: npm install -g markdown-pdf
+      # Step 3: Generate PDF from index.md
+      - name: Generate PDF
+        run: pandoc index.md -o resume-mousa.pdf --pdf-engine=xelatex
 
-      - name: Generate PDF from Markdown
-        run: markdown-pdf index.md -o resume-mousa.pdf
-
-      - name: Commit PDF to repository
+      # Step 4: Commit PDF back to repository
+      - name: Commit PDF
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add resume.pdf
-          git commit -m "Update PDF resume from Markdown" || echo "No changes to commit"
+          git add resume-mousa.pdf
+          git commit -m "Update PDF resume" || echo "No changes to commit"
           git push

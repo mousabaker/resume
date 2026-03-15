@@ -1,7 +1,7 @@
 # Mousa Zeid Baker
 MSc in Computer Science and Engineering
 
-![](https://raw.githubusercontent.com/MousaZeidBaker/resume/master/images/mousa_profile_image.jpeg)
+![](https://raw.githubusercontent.com/MousaZeidBaker/resume/master/images/profile_id.jpg)
 
 ## About me
 
@@ -64,7 +64,30 @@ website that I'm currently building where I make blog posts about various of
 topics.
 
 ## Experience
-`Feb 2022-` __Moodagent__
+
+`Oct 2024-` __Norlys__
+Lead Cloud Architect
+
+Lead Cloud Architect within the Cloud Platform team responsible for designing,
+building and evolving Norlys’ enterprise cloud platform across Azure and AWS.
+My role focuses on enabling development teams to deploy workloads on secure,
+scalable and compliant cloud foundations through enterprise-scale landing zones
+and standardized platform capabilities.
+
+I work closely with engineering teams and stakeholders across the organization
+to provide architectural guidance, support cloud adoption and ensure best
+practices around security, governance, and operational excellence. My
+responsibilities include designing cloud architectures, evaluating new cloud
+technologies, supporting migration and modernization initiatives, and helping
+teams onboard to the enterprise platform.
+
+I am also involved in defining governance models, security guardrails and
+Infrastructure as Code standards to ensure consistent and compliant cloud
+deployments. In addition, I contribute to transformation initiatives related to
+Norlys’ acquisition of Telia, supporting the transition of systems and services
+towards modern cloud-based platforms.
+
+`Feb 2022-Sep 2024` __Moodagent__
 Head of Cloud Infrastructure
 
 I currently serve as the **Head of Infrastructure** at Moodagent, where I lead a

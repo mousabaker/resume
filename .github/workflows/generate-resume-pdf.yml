@@ -22,7 +22,7 @@ jobs:
 
       # Step 3: Generate PDF from index.md
       - name: Generate PDF
-        run: md-to-pdf index.md -o resume-mousa.pdf
+        run: md-to-pdf index.md resume-mousa.pdf
 
       # Step 4: Commit PDF back to repository
       - name: Commit PDF

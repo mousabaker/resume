@@ -24,12 +24,6 @@ I currently serve as a **Lead Cloud Architect** at Norlys within the Cloud Platf
 **Local Kubernetes**  
 [lk8s](https://github.com/mousabaker/lk8s) – One-stop setup for local Kubernetes environments.
 
-**SecretsManager**  
-[sm](https://github.com/mousabaker/sm) – Open-source self-hosted secrets manager built with Next.js, hosted on Vercel, storing secrets in AWS Parameter Store.
-
-**Blog**  
-[https://mousabaker.vercel.app/](https://mousabaker.vercel.app/) – Portfolio and blog sharing insights on cloud, architecture, and development topics.
-
 ## Experience
 
 `Oct 2024-` __Norlys__  
@@ -64,7 +58,7 @@ I currently serve as a **Lead Cloud Architect** at Norlys within the Cloud Platf
 - Expanded services to multiple regions while maintaining operational efficiency.
 
 `Nov 2018-Oct 2019` __Axis Communications__  
-**Software Engineer & DevOps Engineer**
+**DevOps Engineer**
 
 - Developed multi-site serverless solutions for audio services using AWS (AppSync, Lambda, DynamoDB, SNS/SQS).  
 - Modeled and deployed cloud infrastructure using AWS CDK (TypeScript).  

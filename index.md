@@ -17,10 +17,8 @@ I currently serve as a **Lead Cloud Architect** at Norlys within the Cloud Platf
 
 **AWS Lambda Typing**
 [aws-lambda-typing](https://github.com/mousabaker/aws-lambda-typing) – Provides type hints for AWS Lambda event, context, and response objects in Python.
-
 **poetry-plugin-up**
 [poetry-plugin-up](https://github.com/mousabaker/poetry-plugin-up) – Updates dependencies and bumps versions in `pyproject.toml`.
-
 **Local Kubernetes**
 [lk8s](https://github.com/mousabaker/lk8s) – One-stop setup for local Kubernetes environments.
 
